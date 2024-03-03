@@ -16,7 +16,7 @@ JavaScript | Python | SQL | Flask | Express | React | Redux | SQLAlchemy | Seque
 ### Here's how I'm doing right now!
 [![Bobarn's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bobarn&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Bobarn&theme=blueberry&exclude_days=Sun)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Bobarn&theme=blueberry&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 <!--
 **Bobarn/Bobarn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
